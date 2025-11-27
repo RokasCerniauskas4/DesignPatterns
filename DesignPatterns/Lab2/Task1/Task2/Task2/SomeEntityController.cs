@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-
-namespace Task2;
+﻿namespace Task2;
 
 public class SomeEntityController
 {
