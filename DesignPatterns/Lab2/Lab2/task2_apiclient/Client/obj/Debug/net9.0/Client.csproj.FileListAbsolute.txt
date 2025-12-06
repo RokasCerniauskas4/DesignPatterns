@@ -1,0 +1,15 @@
+C:\Users\rokas\OneDrive\Desktop\DesignPatterns\DesignPatterns\Lab2\Lab2\task2_apiclient\Client\bin\Debug\net9.0\Client.exe
+C:\Users\rokas\OneDrive\Desktop\DesignPatterns\DesignPatterns\Lab2\Lab2\task2_apiclient\Client\bin\Debug\net9.0\Client.deps.json
+C:\Users\rokas\OneDrive\Desktop\DesignPatterns\DesignPatterns\Lab2\Lab2\task2_apiclient\Client\bin\Debug\net9.0\Client.runtimeconfig.json
+C:\Users\rokas\OneDrive\Desktop\DesignPatterns\DesignPatterns\Lab2\Lab2\task2_apiclient\Client\bin\Debug\net9.0\Client.dll
+C:\Users\rokas\OneDrive\Desktop\DesignPatterns\DesignPatterns\Lab2\Lab2\task2_apiclient\Client\bin\Debug\net9.0\Client.pdb
+C:\Users\rokas\OneDrive\Desktop\DesignPatterns\DesignPatterns\Lab2\Lab2\task2_apiclient\Client\obj\Debug\net9.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rokas\OneDrive\Desktop\DesignPatterns\DesignPatterns\Lab2\Lab2\task2_apiclient\Client\obj\Debug\net9.0\Client.AssemblyInfoInputs.cache
+C:\Users\rokas\OneDrive\Desktop\DesignPatterns\DesignPatterns\Lab2\Lab2\task2_apiclient\Client\obj\Debug\net9.0\Client.AssemblyInfo.cs
+C:\Users\rokas\OneDrive\Desktop\DesignPatterns\DesignPatterns\Lab2\Lab2\task2_apiclient\Client\obj\Debug\net9.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\rokas\OneDrive\Desktop\DesignPatterns\DesignPatterns\Lab2\Lab2\task2_apiclient\Client\obj\Debug\net9.0\Client.sourcelink.json
+C:\Users\rokas\OneDrive\Desktop\DesignPatterns\DesignPatterns\Lab2\Lab2\task2_apiclient\Client\obj\Debug\net9.0\Client.dll
+C:\Users\rokas\OneDrive\Desktop\DesignPatterns\DesignPatterns\Lab2\Lab2\task2_apiclient\Client\obj\Debug\net9.0\refint\Client.dll
+C:\Users\rokas\OneDrive\Desktop\DesignPatterns\DesignPatterns\Lab2\Lab2\task2_apiclient\Client\obj\Debug\net9.0\Client.pdb
+C:\Users\rokas\OneDrive\Desktop\DesignPatterns\DesignPatterns\Lab2\Lab2\task2_apiclient\Client\obj\Debug\net9.0\Client.genruntimeconfig.cache
+C:\Users\rokas\OneDrive\Desktop\DesignPatterns\DesignPatterns\Lab2\Lab2\task2_apiclient\Client\obj\Debug\net9.0\ref\Client.dll
